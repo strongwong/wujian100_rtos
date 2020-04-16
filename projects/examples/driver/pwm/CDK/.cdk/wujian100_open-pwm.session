@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="E:\work\T_head\wujian100_open-master\sdk\projects\examples\driver\pwm\CDK\wujian100_open-pwm.cdkws">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="E:\work\T_head\wujian100_open-master\sdk\projects\examples\driver\pwm\CDK\wujian100_open-pwm.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="E:\work\T_head\wujian100_open-master\sdk\projects\examples\driver\pwm\example_pwm.c" Name="FileName"/>
+      <int Value="59" Name="FirstVisibleLine"/>
+      <int Value="60" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\work\T_head\wujian100_open-master\sdk\csi_driver\wujian100_open\startup.S" Name="FileName"/>
+      <int Value="126" Name="FirstVisibleLine"/>
+      <int Value="127" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
